@@ -48,7 +48,7 @@ Framework Support
 
 Pybuda itself is a standalone ML framework and has an API heavily inspired by Pytorch.  That said, it is often more convenient to run models that have already been written using another major framework.  This is why we support a Pybuda backend for TVM which allows many popular frameworks to target our pybuda compiler. We support many major frameworks that TVM supports including:
 
-.. list-table:: Framwork Support Matrix
+.. list-table:: Framework Support Matrix
   :header-rows: 1
 
   * - Framework
